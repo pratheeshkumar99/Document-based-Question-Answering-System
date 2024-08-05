@@ -2,7 +2,6 @@ langchain
 streamlit
 python-dotenv
 ipykernel
-beautifulsoup4
 langchain_community
 langchain-text-splitters
 langchain-openai
