@@ -26,10 +26,12 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) system for ques
 
 - 1.	Clone the Repository:
 
-``` git clone https://github.com/pratheeshkumar99/Document-based-Question-Answering-System.git```
+        ``` git clone https://github.com/pratheeshkumar99/Document-based-Question-Answering-System.git```
 
 - 2.    Navigate to the Project Directory:
-``` cd project-name```
+
+        ``` cd project-name```
 
 - 3.    Install the Required Packages:
-```pip install -r requirements.txt```
+
+        ```pip install -r requirements.txt```
